@@ -1,0 +1,1 @@
+En el primer repositorio llamado: "Mi primer proyecto", sí se puede visualizar ya que al momento de crearlo le di permisos para que fuera público, el segundo repositorio llamado: "Mi segundo proyecto", no se puede visualizar porque al momento de crearlo lo puse en privado.
